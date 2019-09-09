@@ -3,7 +3,7 @@ use Mojo::Base 'Mojolicious::Plugin';
 
 use Mojo::Debugbar;
 
-our $VERSION = '0.0.1';
+our $VERSION = '0.0.2';
 
 =head2 register
 
